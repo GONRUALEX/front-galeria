@@ -1,10 +1,10 @@
 # Galeria
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
+Proyecto para la visualización de galería de fotos utilizando un back-end spring boot junto con cloudinary, en el se usa Angular 15, bootstrap, bootswatch, animate.css, 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Clonar el proyecto back-end antes de levantar este, una vez configurado el back-end clonar este repositorio, hacer un npm install y finalmente ejecutar ng serve. Para visualizar el proyecto escribir localhost:4200
 
 ## Code scaffolding
 
