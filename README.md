@@ -1,7 +1,7 @@
 # Galeria
 
 Proyecto para la visualización de galería de fotos utilizando un back-end spring boot junto con cloudinary, en el se usa Angular 15, bootstrap, bootswatch, animate.css, 
-![][(url completa de la imagen)](https://i.postimg.cc/FH8HsB7r/galeria.png)
+![][([url completa de la imagen](https://i.postimg.cc/FH8HsB7r/galeria.png))]
 
 ## Development server
 
